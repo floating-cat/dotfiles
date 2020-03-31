@@ -1,0 +1,6 @@
+[user]
+	name = floating-cat
+	email = monsoon.cl@gmail.com
+[core]
+	autocrlf = input
+	editor = emacs
