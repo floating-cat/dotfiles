@@ -1,0 +1,6 @@
+[user]
+	name = Lejia Chen
+	email = monsoon.cl@gmail.com
+[core]
+	autocrlf = input
+	editor = emacs
